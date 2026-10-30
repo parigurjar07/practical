@@ -1,1 +1,2 @@
 # practical
+#include<stdio.h>
